@@ -23,7 +23,7 @@ If the user gives a number that is not between 1 and 42 the application should r
 ![error to low](./images/error1.png)
 
 <hr>
-If the user dont write a number in the form (writing text) the apoplication should respond with a 400-error
+If the user dont write a number in the form (writing text) the application should respond with a 400-error
 ![error to low](./images/error400.png)
 <hr>
 Of course there should be a custom handling of the 404 error in your application to.
