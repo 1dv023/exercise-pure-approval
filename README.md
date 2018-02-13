@@ -33,3 +33,7 @@ Of course there should be a custom handling of the 404 and 500 error in your app
 ## Hints
 
 For handling the errors you should look up how to handle "flash messages", schema validation in mongoose and the understanding of middleware in Express.
+
+## Solution
+
+- [https://github.com/1dv023/exercise-pure-approval-SOLUTION](https://github.com/1dv023/exercise-pure-approval-SOLUTION)
