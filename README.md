@@ -32,7 +32,7 @@ Of course, there should be a custom handling of the 404 and 500 errors in your a
 
 ## Hints
 
-For handling the errors, you should look up how to handle "flash messages", schema validation in mongoose and the understanding of middleware in Express.
+For handling the errors, you should look up how to handle "flash messages", schema validation in Mongoose and the understanding of middleware in Express.
 
 ## Solution
 
