@@ -10,7 +10,7 @@ The application's start page should have a navigation bar with a home- and a cre
 
 ## Create
 
-When clicking on the create-link, the user should see a form used for entering a number.
+When clicking on the create-link, the user should see a form for entering a number.
 
 ![create](./.readme/create.png)
 
@@ -32,7 +32,7 @@ Of course, there should be a custom handling of the 404 and 500 errors in your a
 
 ## Hints
 
-For handling the errors, you should look up how to handle "flash messages", schema validation in Mongoose and the understanding of middleware in Express.
+For handling the errors, you should look up how to handle "flash messages", schema validation in mongoose and the understanding of middleware in Express.
 
 ## Solution
 
