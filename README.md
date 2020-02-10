@@ -1,6 +1,6 @@
 # Pure approval
 
-In this exercise, you should write a web application with [Express](http://expressjs.com/) and persistent data stored by MongoDB through [Mongoose](http://mongoosejs.com/). This exercise is also about how to validate user input through Mongoose schema and to present information to the user through "flash messages".
+In this exercise, you should write a web application with [Express](http://expressjs.com/) and persistent data stored by MongoDB through [Mongoose](http://mongoosejs.com/). This exercise is also about how to validate user input through Mongoose schema and to present information to the user through flash messages.
 
 The application is a simple type where the user can write a number between 1 and 42 to be stored persistently.
 
@@ -10,13 +10,13 @@ The application's start page should have a navigation bar with a home- and a cre
 
 ## Create
 
-When clicking on the create-link, the user should see a form for entering a number.
+When clicking on the link New to create a new pure number, the user should see a form for entering a number.
 
 ![create](./.readme/create.png)
 
 ### Success
 
-If the number is between 1 and 42, save the number in the database (with a timestamp of the creation). If saving the number was successful, the server redirects the client to the page listing all the numbers. After the redirect, inform the user saving the number was successful. 
+If the number is between 1 and 42, save the number in the database (with a timestamp of the creation). If saving the number was successful, the server redirects the client to the page listing all the numbers. After the redirect, inform the user saving the number was successful.
 
 ![success](./.readme/success.png)
 
